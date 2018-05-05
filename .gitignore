@@ -1,0 +1,8 @@
+# eclipse files
+.classpath
+.project
+/.settings
+
+# additional
+/bin
+build.jardesc
